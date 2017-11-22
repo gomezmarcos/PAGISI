@@ -1,0 +1,141 @@
+ /////			 /////
+///// Negocio parcial 1 /////
+
+	Pregunta01-Explique la segmentacion que utilizo para su negocio (ver como aplica a mi negocio)
+		1)Seleccione un mercado
+		2)Elegi bases para segmentar el mercado
+		3)Seleccione descriptores de segmentacion
+		4)Analice los segmentos
+		5)Seleccione los mercados meta
+		6)Disene e implemente las mezclas de marketing "apropiadas"
+
+	Pregunta02-Detalles lo pasos elegidos para definicir Mision y Vision
+		1)	Defini el marco temporal
+		2)
+			Defini el alcance (producto, el mercado y la ubicacion geografica)
+		 	Defini las competencais unicas (capacidades, destrezas)
+		3)	Defini el segmento producto-mercado (matrix)
+		4)	Definir desafios apartir los cambios en la mision
+		5)	Declaracion de la mision > razon de existir de la organizacion
+
+	Pregunta03-Que factores del Marco y Micro ambiente influyen sobre su negocio en mayor medida? Como planea controlarlos?
+		Macro	>Fuerzas Economicas
+			>Politicas
+			>Ecologicas
+			>Legales
+
+		Micro	>Proveedores
+			>Competidores
+			>Consumidores
+			>Intermediarios
+
+	Pregunta04-Explique estrategias para maximizar o minimizar el impacto de 3 elementos de su FODA.
+
+
+ /////			 /////
+///// Negocio parcial 2 /////
+	Pregunta01-Explique los metodos de Fijacion de Precio
+		Basado en el COSTO
+			Establece un precio en base a los costos de producir y vender el producto
+			Producto > Costo > Precio > Valor > Cliente
+				
+
+		Basados en el VALOR
+			Establece un precion en base a la percepcion del valor del comprador, no en los costos del vendedor
+			Cliente > Valor > Precio > Costo > Producto
+
+	Pregunta02- Que es la fijacion de precios por Descremado.
+
+	Pregunta03-Caracteristicas y acciones a tomar en cada etapa del ciclo de vida del producto
+
+	Pregunta04-Niveles de prodcuto de su caso de negocio	
+
+
+ /////			 /////
+///// Temas Parcial 1 /////
+	5 fuerzas de Porter: Indican el atractivo de la industria
+		intensidad de rivalidad entre competidores
+		amenzas de nuevos entrantes 
+		amenazas de sustitutos
+		poder de negociacion de proveedores
+		poder de negociacion de compradores
+
+	Pasos para trazar el atractivo de la industria - Modelo de factores externos
+		1) identificar factores externos criticos
+		2) analizar los factores
+			Factores de mercado
+			Factores de competitivos
+			Factores de economicos y gubernamentales
+			Factores tenologicos
+			Factores sociales
+		3)Identificar oportunidades y amenazas
+		
+	Proceso de posicionamiento competitivo con Factores Criticos de Exito
+		1)Identificar competidores mas importantes
+		2)Seleccionar factores criticos de exito
+		3)Hacer un perfil competitivo de mi negocio respecto a la competencia
+		4)Identificar puntos fuertes y debiles del negocio
+
+	Segmentacion de consumidores - variables
+		geografica
+		demografica
+		psicografica
+		beneficio
+		por uso
+
+	Estrategias de mercado meta
+		No diferenciado		> Ahorros en mkt, ofertas de prodcutos poco creativos
+		Concentrado		> satisface mejor las necesidades, posicionamiento solido. Muchos o variados segmentos
+		Segmentos Multiples	> Mayor exito financiero. Malo: Altos costos.
+
+ /////			 /////
+///// Temas Parcial 2 - PPT Unidad 3 /////
+	Dimensiones del Producto
+		Producto Fisico		> el producto en si, composicion y funciones
+		Producto Imaginario	> elementos racionales, de comunicacion y posicion de marca
+		Producto Economico	> en comparacion con otros productos. El precion objetivo
+
+	Niveles del producto
+		Producto Basico		>Servicio/Beneficio fundamental
+		Producto Real		>Caracteristicas, diseno, calidad, envasado
+		Producto Aumentado	>Garantia, servicio post venta, Instalacion, creditos
+
+	Caracteristicas de los servicios
+		Intangible
+		Inseparable
+		Variable - De acuerdo a quien lo provee
+		Perecedero - No se puede almacenar
+		Empatia - Atencio personalizada
+
+	Nombre de marca eficaz
+		Facil de pronunciar
+		Facil de recordar
+		Describe el producto
+		Describe beneficios
+		Refuerza la imagen que se desea
+		Corto y distintivo
+
+	Ciclo de vida del producto
+		Introduccion	>Pocos modelos
+		Crecimiento	>Mas modelos, innovacion
+		Madurez		>Producto conocido, alta fidelidad
+		Declive		>Eliminar modelos no rentables
+	
+	Ciclo de vida del producto - Para Marketing
+		Introduccion	>Creaer conciencia del producto
+		Crecimiento	>Aumentar participacion, aumentar ventas
+		Madurez		>Aumenar al maximo la utilidades, proteger la participacion del mercado
+		Declive		>Reducir gastos, retirar el producto?
+
+	Estrategias de Distribucion
+		Extensiva: Idem Intensiva pero con contactos! Ataca muchos canales
+		Intensiva: Alta rotacion, baja ganancia. Necesita muchos puntos de venta, requiere conocimiento de los consumidores
+		Selectiva: Rotacion y ganancia media. Mayor dedicacion del distribuidor
+		Exclusiva: Poca rotacion, alta ganancia
+
+
+ /////			 /////
+///// Parcial 2 - PPT Unidad 4 /////
+	Mercado meta de mi negocio? Marketing Concentrado
+
+	Propuesta de valor: Lo mismo por menos.

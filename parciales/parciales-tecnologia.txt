@@ -1,0 +1,220 @@
+ /////
+///// Tecnologia parcial 1 /////
+	Pregunta01-Cuando se usa Include
+		Cuando distintos casos de uso poseen un conjunto de eventos con la misma funcionalidad, estos eventos pueden factorizar en un nuevo caso de uso, el cual se relacionara con los anteriores mediante la relacion de inclusion.
+		Cuando un caso de uso es muy extenso y dificil de leer.
+		Cuando queremos evitar repeticiones de descripcion en flujos de eventos
+
+	Pregunta02-Cuando se usa Extend
+		Cuando un conjunto de eventos solo se ejecuta en ciertos casos
+		Cuando la seleccion de flujos alternativos se vuelve muy dificil y grande, es conveniente crear nuevos casos de uso apartir de estos, extendiendo al original.
+
+	Pregunta03-Explique Pre y Post condiciones
+
+	Pregunta04-Explique la importancia de los casos de uso en cada fase del Proceso unificado.
+		Inicio: Ayudan a entender los requerimientos y el alcance del sistema
+		Elaboracion: Ayudan a entender el sistema en terminos de Diseno y Modelado, soportados por UML
+		Consturccion: Ayudan a guiar el desarrollo, la generacion de clases y tablas
+		Transicion y produccion: Permiten entender el funcionamiento del sistema llevado a cabo por los distintos actores
+
+	Pregunta05-Ingeniera de software de Sala Limpia. Que es?
+		Es una caja de estados encapsula los estados y servicios de forma analoga a los objetos. Se representa las entradas y las salidas.
+	
+	Pregunta06-Calidad de software. 
+		Defecto implica un problema de calidad que fue descubierto luego de liberar el software.
+
+	Pregunta07-Fases del Proceso Unificado
+		Inicio			> se establecen requerimientos necesarios de los stakeholders
+		Elaboracion		> se disenan los primeros casos de uso UML basados en los requermientos de la fase de Inicio
+		Construcion		> se desarrollan las primeras versiones de software y sus prototipos basados en las primeras dos etapas
+		Transicion/Produccion	> se entregan las primeras versiones para ser evaluadas y mejoradas hasta que sea aceptable y pueda llevarse a Produccion
+
+	Pregunta08-Los procesos de negocio son capturados apartir de los objetivos principales de la empresa, descompuestos y explotados.
+
+	Pregunta09-Los casos de uso cumplen:
+		Solo deben mostrar los roles externos
+		Permite ver los limites y entorno de la organizacion
+		Cada caso de uso representa un unico proceso
+
+	Pregunta10-Acerca de los diagramas de activadad
+		Sus actividades tienen la granularidad suficiente para ser actividades asociadas a un caso de uso
+		El rol que lleva a cabo la actividad es el actor principal del CU
+
+	Pregunta09-Describa 3 tipos de servidores:
+		Cliente/BD
+		Fileserver
+		Distribuido
+
+	Pregunta10-Modelo incremental-Caracteristicas
+		Permite tener versiones mejoradas con incrementos
+		Los requerimientos pueden ir cambiando de incremento a incremento
+		Permite variar la cantidad de integrantes de los equipos de acuerdo a la etapa y necesidad
+
+
+ /////
+///// Tecnologia parcial 2 /////
+	Pregunta01-Factores de Calidad McHall (5) (Hi FURET!)
+		Flexibilidad
+		Usabilidad
+		Resusabilidad
+		Eficiencia
+		Testeable
+
+	Pregunta02-Calidad. Defecto/falla/error
+		Defecto y Falla son sinonimos
+		Error son los problemas de calidad luego de liberar el software
+
+	Pregunta03-Conceptos de Calidad Garvin
+		Punto de vista trascendetal 	>> se reconoce pero no es posible definir
+		Punto de vista del usuario 	>> metas especificas del usuario final
+		Punto de vista del fabricante 	>> especificaciones originales del producto
+		Punto de vista del producto 	>> funciones y caracteristicas del producto
+		Punto de vista basado en valor 	>> Lo que el cliente esta dispuesto a pagar
+
+	Pregunta04-Porque la concepcion de calidad de conformidad tiene una vision mas sesgada que la calidad del diseno?
+		La calidad del diseno se basa en los requerimientos, determinando el grado en que los cumple y a las caracteristicas del producto.
+		La calidad de conformidad mide el grado en que la implementacion se apega al diseno, cumpliendo las metas de requerimientos y desempeno.
+
+		Se plantea que la vision del usuario es mas sesgada, talque PRODUCTO_FUNCIONA + BUENA_CALIDAD + ENTREGA_EN_PRESUPUESTO_Y_PLAZO
+
+	Pregunta05-Factores de calidad que se persiguen.
+		Intuitivo	- Grado en que la interfaz sigue patrones esperados de uso
+		Robustez 	- Grado en que la interfaz maneja entradas erroneas de datos
+		Riqueza	 	- Grado en que la interfaz provee conjunto abundante de caracteristicas 
+		Eficiencia 	- Grado en el que es posible localizar e iniciar operaciones
+
+	Pregunta06-Describa notaciones de modelado:
+	Notaciones de Modelado
+		Diagrama de flujo de datos: representacion grafica de los procesos de la organizacion, mostrando como y por quien se llevan a cabo.
+		BPMN: representacion comprensible por todos los usuarios del negocio. Crea puentes entre el diseno e implementacion de los procesos
+		Diagrama de Actividades: Diagrama UML que representa el comportamiento dinamico de un sistema centrandose en la secuencia de las actividades
+
+	Pregunta09 La descripcion de la colaboracion entre los diferentes roles se logra mediante un diagrama de FLUJO.
+
+
+ /////
+///// Tecnologia Recuperatorio /////
+	Pregunta04-El diagrama de contexto determina que hara y que no el sistema
+
+	Pregunta05-Ingeniera de software de Sala Limpia. Que es?
+		Es una caja de estados encapsula los estados y servicios de forma analoga a los objetos. Se representa las entradas y las salidas.
+
+	Pregunta06-Calidad de software. Defecto implica un problema de calidad que fue descubierto luego de liberar el software.
+
+	Pregunta08-Los procesos de negocio son capturados apartir de los objetivos principales de la empresa, descompuestos y explotados.
+
+	Pregunta09-Los casos de uso cumplen:
+		Solo deben mostrar los roles externos
+		Permite ver los limites y entorno de la organizacion
+		Cada caso de uso representa un unico proceso
+
+
+
+ /////
+///// Tecnologia PPT - Calidad/////
+	Dilema de la calidad
+		Como el software deberia ser lo suficientemente bueno, y no tan costoso de producir.
+		Si el software es de mala calidad, quien lo compra?
+		Si se dedica mucho timepo y esfuerzo, quien lo paga?
+		Contienen funciones y caracteristicas que desean los usuarios, mas otras mas oscuras con errores. Se espera que los usuarios olviden los errores encantados por las virtudes principales.
+
+	Costos de Calidad (PEFeX)
+		de Prevencion
+		de Evaluacion
+		de Falla
+		eXternos de Falla
+
+	Riesgos (PADTT)
+		Perjuicios Legales
+		Accidentes
+		Dinero
+		Tiempo
+		Tragedias
+		
+	Administracion de Proyectos: Decisiones
+		de Estimacion
+		de Programacion
+		Orientadas al riesgo
+
+		Se espera que se usen
+			-tecnicas de Ingenieria de Software
+			-utilizando tecnicas de administracion de proyectos
+			-controlando la calidad
+			-asegurando la calidad
+
+	Revisiones de Software
+		Defecto/Falla: Problema de calidad encontrado LUEGO de liberar version
+		Error: Problema de calidad encontrado ANTES de liberar version
+
+		Sirven para descubrir errores
+		Tipos comunes: Formales e Informales
+		El objetivo de las Revisiones es encontrar los errores antes de que sean fallas $$$
+
+ /////
+///// Tecnologia PPT - Procesos de Negocio/////
+	Ciclo de vida: (SIMODM)
+		Descubir > Modelar > Simular > Implementar > Monitorear > Optimizara >> (vuelvo al 1)
+	
+	Notaciones de Modelado
+		Diagrama de flujo de datos: representacion grafica de los procesos de la organizacion, mostrando como y por quien se llevan a cabo.
+		BPMN: representacion comprensible por todos los usuarios del negocio. Crea puentes entre el diseno e implementacion de los procesos
+		Diagrama de Actividades: Diagrama UML que representa el comportamiento dinamico de un sistema centrandose en la secuencia de las actividades
+
+	Modelado de Negocio
+		Las empresas organizan su actividad por medio de procesos de negocio
+		Se capturan los procesos de negocio
+		Se capturan los roles
+		Cada proceso es un Caso de Uso
+			Solo se muestran roles externos
+			Permite ver los limites de la organizacion
+		La colaboracion entre roles se hace con un Diagrama de Secuencias
+
+
+ /////
+///// Tecnologia PPT - Modelo relacional /////
+	Formas Normales
+		Primera forma normal: Estructura libre de grupos repetitivos.
+		Segunda forma normal: Estructura  con dependecia funcional completa.
+		Tercera forma normal: Ningun dato que dependa de la PK, depende de otro atributo.
+
+	Cardinalidad
+		Cuantos registros de una tabla se relacionan con cuantos de otra
+	Modalidad
+		Medida minima y obligatoria de una relacion
+
+
+
+ /////
+///// Tecnologia PPT - Pressman /////
+	Modelo en Cascado
+		Comunicacion
+		Planeacion
+		Modelado
+		Construccion
+		Despliegue
+
+		Problemas:
+			Los proyectos no siguen una secuencia
+			Se necesitan todos los requerimientos de manera explicita
+			Para obtener software se requiere un que el proyecto este avanzado
+
+	Modelo Evolutivo
+		Iterativo
+		Espiral
+
+	Proceso Unificado
+		Comunicacion	Inicio
+		Planeacion	Inicio 	Elaboracion
+		Modelado		Elaboracion
+		Construccion	Construccion	Transicion
+		Despliegue			Transicion
+		Lanzamiento	Produccion
+
+		Dirigido por Casos de Uso
+		Iterativo / Incremental
+		Centrado en la arquitectura de software
+
+	Sala limpia: Se hace incapie en corregir errores mientras se desarrolla. Se pone rigor en la especificacion, diseno y verificacion formal de los elementos del modelo
+		Caja Negra		>Se hace corresponder estimulos con la respuesta, no importa como se procesan
+		Caja Estado		>Representa entradas y salidas, encapsulando estados y servicios de forma analoga a los objetos
+		Caja Transparente	>En esta caja se definen las funciones de la caja de Estados
